@@ -1,0 +1,92 @@
+
+Choose an option to begin:
+	1. Sports
+	2. Movie/Series
+	3. Song
+	4. Book
+	5. Game
+	0. Exit
+
+you have picked "movie/series". You have the following options:
+	1.Search (movie/series, actor, director etc.)
+	2.Stream
+	3.Download
+	0.Go back
+
+You have picked "search". Please enter your search query: 
+You have searched for "Belaseshe". Here is the url genarated for your search query:
+	https://www.imdb.com/find/?q=Belaseshe&ref_=nv_sr_sm
+Do you want to open the url in your default browser[y/n]?: 
+url opened
+
+you have picked "movie/series". You have the following options:
+	1.Search (movie/series, actor, director etc.)
+	2.Stream
+	3.Download
+	0.Go back
+
+You have picked "stream". Please choose from the following catagories:
+	1.Movie/Series
+	2.Anime
+	3.Korean drama
+	0.Go back
+
+You have picked "Movie/Series". Please enter the title: 
+You have searched for "john wick: chapter 4". Here is the url genarated for your search query:
+	https://123chill.to/?s=john+wick:+chapter+4&post_type=post%2Ctvshows
+Do you want to open the url in your default browser[y/n]?: 
+url opened
+
+You have picked "stream". Please choose from the following catagories:
+	1.Movie/Series
+	2.Anime
+	3.Korean drama
+	0.Go back
+
+you have picked "movie/series". You have the following options:
+	1.Search (movie/series, actor, director etc.)
+	2.Stream
+	3.Download
+	0.Go back
+
+Choose an option to begin:
+	1. Sports
+	2. Movie/Series
+	3. Song
+	4. Book
+	5. Game
+	0. Exit
+
+you have picked "Book". You have the following options:
+	1.Search (Book, series, author etc.)
+	2.Download/Read online
+	3.Comic
+	4.Manga
+	0.Go back
+
+you have picked "Download/Read online". You have the following options:
+	1.Pdfdrive
+	2.Justfreebooks
+
+You have picked "Pdfdrive". Please enter the title/author: 
+You have searched for "let us c". Here is the url genarated for your search query:
+	https://www.pdfdrive.com/search?q=let+us+c&pagecount=&pubyear=&searchin=&em=
+Do you want to open the url in your default browser[y/n]?: 
+url opened
+
+you have picked "Book". You have the following options:
+	1.Search (Book, series, author etc.)
+	2.Download/Read online
+	3.Comic
+	4.Manga
+	0.Go back
+
+Choose an option to begin:
+	1. Sports
+	2. Movie/Series
+	3. Song
+	4. Book
+	5. Game
+	0. Exit
+
+Session ended.
